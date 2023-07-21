@@ -71,15 +71,15 @@ If you need help getting started using git/GitHub, check out our GitHub tutorial
 Want to Contribute?
 -------------------
 
-Check out our [Library Guidelines](https://github.com/sparkfun/SparkFun-Eagle-Libraries/wiki), create your part, and add it to our [UserSubmitted](https://github.com/sparkfun/SparkFun-Eagle-Libraries/blob/master/User-Submitted.lbr) library.
+Check out our [Library Guidelines](https://github.com/import-tiago/SparkFun-Eagle-Libraries/wiki), create your part, and add it to our [UserSubmitted](https://github.com/import-tiago/SparkFun-Eagle-Libraries/blob/master/User-Submitted.lbr) library.
 
 If you discover a bug with an existing component, please submit an issue or pull request.
 
 Library Versions
 ----------------
 
-The library associated with Eagle v5.11 and earlier is found [here](https://github.com/sparkfun/Old-SparkFun-Eagle-Library).
-If you would like to reference the library as it related to a particular version of Eagle, please check our tagged versions [here](https://github.com/sparkfun/SparkFun-Eagle-Libraries/releases). 
+The library associated with Eagle v5.11 and earlier is found [here](https://github.com/import-tiago/Old-SparkFun-Eagle-Library).
+If you would like to reference the library as it related to a particular version of Eagle, please check our tagged versions [here](https://github.com/import-tiago/SparkFun-Eagle-Libraries/releases). 
 
 
 License Information
